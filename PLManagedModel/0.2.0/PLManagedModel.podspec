@@ -35,7 +35,6 @@ Pod::Spec.new do |s|
     'PLManagedModel' => ['Pod/Assets/*.png']
   }
 
-  s.public_header_files = 'Pod/Classes/**/*.h'
   s.frameworks = 'CoreData'
   # s.dependency 'AFNetworking', '~> 2.3'
 end
