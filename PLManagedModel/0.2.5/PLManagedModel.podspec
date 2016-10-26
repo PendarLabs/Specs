@@ -20,7 +20,7 @@ Pod::Spec.new do |s|
     A custom NSManagedObject subclass to streamline syncing with a web service, including support for batch importing and find/create.
                        DESC
 
-  s.homepage         = "https://hirad@bitbucket.org/pendarlabs/plmanagedmodel.git"
+  s.homepage         = "https://bitbucket.org/pendarlabs/plmanagedmodel.git"
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license          = 'MIT'
   s.author           = { "Hirad Motamed" => "hirad@pendarlabs.com" }
